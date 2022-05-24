@@ -1,0 +1,402 @@
+.body{
+    position: 100%;
+    width: 1440px;
+    height: 1020px;
+    left: 0px;
+    top: 0px;
+    background: url(imagenes/felipepelaquim-x7EkH3S6EjU-unsplash.jpg);
+}
+
+.th1{
+position: absolute;
+width: 981px;
+height: 90px;
+left: 42px;
+top: 54px;
+
+font-family: Readex Pro;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 90px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+}
+
+
+.TH2{
+    position: absolute;
+width: 651px;
+height: 60px;
+left: 205px;
+top: 144px;
+
+font-family: Readex Pro;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 60px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+}
+
+.F1{
+    position: absolute;
+width: 1000px;
+height: 200px;
+left: 42px;
+top: 54px;
+
+background: rgba(142, 61, 61, 0.5);
+}
+
+.F2{
+    position: absolute;
+width: 300px;
+height: 300px;
+left: 1097px;
+top: 4px;
+}
+
+
+
+.T1{
+position: absolute;
+width: 400px;
+height: 500px;
+left: 56px;
+top: 328px;
+
+background: rgba(230, 157, 157, 0.5);
+}
+
+.Ta{
+    position: absolute;
+width: 170px;
+height: 60px;
+left: 154px;
+top: 343px;
+
+font-family: Readex Pro;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 60px;
+/* identical to box height */
+
+text-align: center;
+
+color: #000000;
+
+}
+.Ta1{
+    position: absolute;
+width: 109px;
+height: 40px;
+left: 84px;
+top: 472px;
+
+font-family: Readex Pro;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 40px;
+/* identical to box height */
+
+text-align: center;
+
+color: #000000;
+}
+
+.Ta2{
+    position: absolute;
+width: 110px;
+height: 40px;
+left: 83px;
+top: 525px;
+
+font-family: Readex Pro;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 40px;
+/* identical to box height */
+
+text-align: center;
+
+color: #000000;
+}
+
+.Ta3{
+    position: absolute;
+    width: 110px;
+    height: 40px;
+    left: 84px;
+    top: 578px;
+    
+    font-family: Readex Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 40px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #000000;
+}
+
+.Ta4{
+    position: absolute;
+width: 113px;
+height: 40px;
+left: 82px;
+top: 631px;
+
+font-family: Readex Pro;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 40px;
+/* identical to box height */
+
+text-align: center;
+
+color: #000000;
+}
+.Co1{
+    position: absolute;
+    width: 400px;
+    height: 500px;
+    left: 505px;
+    top: 328px;
+    
+    background: rgba(255, 237, 80, 0.5);
+
+}
+
+.Con{
+    position: absolute;
+    width: 199px;
+    height: 60px;
+    left: 589px;
+    top: 348px;
+    
+    font-family: Readex Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 60px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #000000;
+}
+
+.con1{
+    position: absolute;
+width: 161px;
+height: 40px;
+left: 528px;
+top: 480px;
+
+font-family: Readex Pro;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 40px;
+/* identical to box height */
+
+text-align: center;
+
+color: #000000;
+}
+
+.con2{
+    position: absolute;
+width: 163px;
+height: 40px;
+left: 533px;
+top: 525px;
+
+font-family: Readex Pro;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 40px;
+/* identical to box height */
+
+text-align: center;
+
+color: #000000;
+
+}
+
+.con3{
+    position: absolute;
+width: 162px;
+height: 40px;
+left: 533px;
+top: 581px;
+
+font-family: Readex Pro;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 40px;
+/* identical to box height */
+
+text-align: center;
+
+color: #000000;
+}
+.con4{
+    position: absolute;
+width: 165px;
+height: 40px;
+left: 528px;
+top: 631px;
+
+font-family: Readex Pro;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 40px;
+/* identical to box height */
+
+text-align: center;
+
+color: #000000;
+
+}
+
+
+.Rt1{
+    position: absolute;
+    width: 400px;
+    height: 500px;
+    left: 969px;
+    top: 328px;
+    background: rgba(255, 185, 214, 0.5);
+}
+
+
+
+
+.Ret{
+    position: absolute;
+width: 132px;
+height: 60px;
+left: 1060px;
+top: 348px;
+
+font-family: Readex Pro;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 60px;
+/* identical to box height */
+
+text-align: center;
+
+color: #000000;
+
+}
+
+.ret1{
+    position: absolute;
+    width: 101px;
+    height: 40px;
+    left: 1006px;
+    top: 480px;
+    
+    font-family: Readex Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 40px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #000000;
+}
+
+.ret2{
+    position: absolute;
+    width: 103px;
+    height: 40px;
+    left: 1006px;
+    top: 525px;
+    
+    font-family: Readex Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 40px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+}
+
+.ret3{
+    position: absolute;
+    width: 102px;
+    height: 40px;
+    left: 1007px;
+    top: 581px;
+    
+    font-family: Readex Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 40px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+}
+.ret4{
+    position: absolute;
+    width: 105px;
+    height: 40px;
+    left: 1007px;
+    top: 631px;
+    
+    font-family: Readex Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 40px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #000000;
+}
+.foot1{
+    position: absolute;
+width: 1298px;
+height: 100px;
+left: 56px;
+top: 883px;
+
+background: rgba(196, 196, 196, 0.5);
+}
+
